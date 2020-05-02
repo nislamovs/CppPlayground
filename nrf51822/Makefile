@@ -1,6 +1,6 @@
 BOARD?=sandeepmistry:nRF5:Waveshare_BLE400
 #PORT?=/dev/ttyUSB1
-HEX_NAME?=nrf51822_blink.hex
+HEX_NAME?=./nrf51822_blink.hex
 
 .PHONY: default lint all flash clean
 
