@@ -5,7 +5,8 @@
 *.iml
 *.ipr
 draft
-
+*.o
+**/draft/*
 
 .cmake-build-debug
 cmake-build-debug
